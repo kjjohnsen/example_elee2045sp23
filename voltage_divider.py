@@ -11,4 +11,4 @@ P_R2 = (I1**2)*R2
 
 print(V_out,P_R1,P_R2)
 
-print(f"V_out={V_out} P_R1 = {P_R1} P_R2 = {P_R2}")
+print(f"V_out={V_out}, P_R1 = {P_R1}, P_R2 = {P_R2}")
